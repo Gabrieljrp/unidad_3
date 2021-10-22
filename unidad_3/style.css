@@ -1,0 +1,38 @@
+* {
+	margin: 10;
+	padding: 5;
+	box-sizing: border-box;
+
+}
+
+
+body {
+
+	background:  #5f5c5c;
+}
+
+.form-cal {
+	width: 400px;
+	background: #24303c;
+	padding: 545px;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 25px;
+	font-family: 'calibri';
+	color: white;
+	box-shadow: 7px 13px 37px #000 ;
+
+}
+
+.controls {
+	
+	background:   #eaf4f9;
+	padding: 3px;
+	border-radius: 20px;
+	margin-bottom: 7px;
+	font-family: 'calibri';
+	font-size: 10px;
+
+
+
+}
